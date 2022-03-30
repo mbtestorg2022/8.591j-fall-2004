@@ -61,7 +61,7 @@ Cooperativity
 {{< tdopen >}}
 Michaelis-Menten Kinetics ([PDF]({{< baseurl >}}/resources/l2_syllabus))  
   
-Associated MATLAB® code file ([M](/courses/physics/8-591j-systems-biology-fall-2004/readings/CodeI1_v2.m))
+Associated MATLAB® code file ({{% resource_link "73484f2a-4c6b-06c5-6434-9ed94ecc4f7d" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +77,7 @@ Multistability
 {{< tdopen >}}
 A Genetic Switch in Lamba Phage ([PDF]({{< baseurl >}}/resources/l3_syllabus))  
   
-Associated MATLAB® code file ([M](/courses/physics/8-591j-systems-biology-fall-2004/readings/CodeI2.m))  
+Associated MATLAB® code file ({{% resource_link "8ecfd11c-35dd-9cf2-dcdc-4307eb620562" "M" %}})  
   
 Hasty, Jeff, Joel Pradines, Milos Dolnik, and J. J. Collins. "Noise-based Switches and Amplifiers for Gene Expression." _Proc. Natl. Acad. Sci. USA_ 97, no. 5 (Feb 29, 2000): 2075-80.
 {{< tdclose >}}
@@ -143,7 +143,7 @@ Fine-tuned versus Robust Chemotaxis Models
 {{< tdopen >}}
 Modeling Escherichia coli chemotaxis ([PDF]({{< baseurl >}}/resources/l8_syllabus))  
   
-Associated MATLAB® code file ([M](/courses/physics/8-591j-systems-biology-fall-2004/readings/CodeI4.m))  
+Associated MATLAB® code file ({{% resource_link "4d8ba21c-4bb0-740d-4a2a-128019a2f4f4" "M" %}})  
   
 Spiro, Peter A., John S. Parkinson, and Hans G. Othmer. "A Model of Excitation and Adaptation in Bacterial Chemotaxis." _Proc. Natl. Acad. Sci. USA_ 94, no. 14 (July, 1997): 7263–68.
 {{< tdclose >}}
@@ -171,7 +171,7 @@ Genetic Oscillators
 {{< tdopen >}}
 Biological Oscillators ([PDF]({{< baseurl >}}/resources/l10_syllabus))  
   
-Associated MATLAB® code file ([M](/courses/physics/8-591j-systems-biology-fall-2004/readings/CodeI6.m))  
+Associated MATLAB® code file ({{% resource_link "36f8168a-ba57-6275-ca46-25559443409c" "M" %}})  
   
 Elowitz, Michael B., and Stanislas Leibler. "A Synthetic Oscillatory Network of Transcriptional Regulators." _Nature_ 403, no. 6767 (January 20, 2000): 335-8.
 {{< tdclose >}}
@@ -187,7 +187,7 @@ Genetic Oscillators (cont.)
 {{< tdopen >}}
 Routh-Hurwitz ([PDF]({{< baseurl >}}/resources/l11_syllabus))  
   
-Associated MATLAB® code file ([M](/courses/physics/8-591j-systems-biology-fall-2004/readings/routh.m))  
+Associated MATLAB® code file ({{% resource_link "afe85a53-4252-53ad-d586-84b695188883" "M" %}})  
   
 Atkinson, Mariette R., Michael A. Savageau, Jesse T. Myers, and Alexander J. Ninfa. "Development of Genetic Circuitry Exhibiting Toggle Switch or Oscillatory Behavior in _Escherichia coli_." _Cell_ 113, no. 5 (May 30, 2003): 597-607.
 {{< tdclose >}}
@@ -299,7 +299,7 @@ Models for Eukaryotic Gradient Sensing
 {{< tdopen >}}
 Models for Eukaryotic Gradient Sensing ([PDF]({{< baseurl >}}/resources/l19_syllabus))  
   
-Associated MATLAB® code file ([M](/courses/physics/8-591j-systems-biology-fall-2004/readings/narang.m))  
+Associated MATLAB® code file ({{% resource_link "626a1a3d-f514-8201-097f-7973bd68b226" "M" %}})  
   
 Narang, Atul, K. K. Subramanian, and D. A. Lauffenburger. "A Mathematical Model for Chemoattractant Gradient Sensing based on Receptor-regulated Membrane Phospholipid Signaling Dynamics." _Annals of Biomedical Engineering_ 29, no. 8 (2001): 677-91.
 {{< tdclose >}}

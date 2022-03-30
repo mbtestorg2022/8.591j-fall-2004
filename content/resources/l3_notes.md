@@ -3,6 +3,7 @@ content_type: resource
 description: Slides from the lecture presentation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-591j-systems-biology-fall-2004/c135e0e786fecd6c4b482d3245b69a5c_l3_notes.pdf
 file_type: application/pdf
+parent_uid: c9564d6a-d5c7-c12c-e38a-aab6dada0c26
 resourcetype: Document
 title: l3_notes.pdf
 uid: c135e0e7-86fe-cd6c-4b48-2d3245b69a5c

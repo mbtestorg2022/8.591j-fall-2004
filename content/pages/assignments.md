@@ -22,7 +22,7 @@ SUPPORTING MATLAB® FILES
 Problem set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 ([M](/courses/physics/8-591j-systems-biology-fall-2004/assignments/ps1.m))
+Problem set 1 ({{% resource_link "3380af96-dfd7-9818-646d-b35eae6b97f3" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 4 ([M](/courses/physics/8-591j-systems-biology-fall-2004/assignments/ps4.m))
+Problem set 4 ({{% resource_link "7c9cbef7-9337-52ee-c70e-6102e105ab1a" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Problem set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 Take home final ([PDF]({{< baseurl >}}/resources/final_ps))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 6 ([M](/courses/physics/8-591j-systems-biology-fall-2004/assignments/ps6.m))
+Problem set 6 ({{% resource_link "f87b06e9-df9a-6a03-6d99-672ef41f4b78" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

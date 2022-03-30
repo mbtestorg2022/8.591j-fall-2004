@@ -3,6 +3,7 @@ content_type: resource
 description: Homework assignment consisting of 4 problems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-591j-systems-biology-fall-2004/3b8da442ddb9d21103d1e4abc2f44864_final_ps.pdf
 file_type: application/pdf
+parent_uid: 91766c16-0667-c25f-07bd-4c4d6ea6d36a
 resourcetype: Document
 title: final_ps.pdf
 uid: 3b8da442-ddb9-d211-03d1-e4abc2f44864

@@ -3,6 +3,7 @@ content_type: resource
 description: Review notes of the topics covered in class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-591j-systems-biology-fall-2004/25ef7d9b0a873588ba07f9b35743f086_l3_syllabus.pdf
 file_type: application/pdf
+parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Document
 title: l3_syllabus.pdf
 uid: 25ef7d9b-0a87-3588-ba07-f9b35743f086
