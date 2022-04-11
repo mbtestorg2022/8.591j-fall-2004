@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c9564d6a-d5c7-c12c-e38a-aab6dada0c26
 ---
@@ -54,7 +57,7 @@ Lambda Phage ([PDF]({{< baseurl >}}/resources/l3_notes))
   
 Multistability  
   
-Associated MATLAB® Code File ({{% resource_link "8ecfd11c-35dd-9cf2-dcdc-4307eb620562" "M" %}})
+Associated MATLAB® Code File ([M]({{< baseurl >}}/resources/codei2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +104,7 @@ Introduction _E. coli_ Chemotaxis ([PDF - 1.3 MB]({{< baseurl >}}/resources/l7_n
 {{< tdopen >}}
 Fine-tuned versus Robust Chemotaxis Models ([PDF]({{< baseurl >}}/resources/l8_notes))  
   
-Associated MATLAB® Code File ({{% resource_link "4d8ba21c-4bb0-740d-4a2a-128019a2f4f4" "M" %}})
+Associated MATLAB® Code File ([M]({{< baseurl >}}/resources/codei4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +124,7 @@ Wrapping up Chemotaxis ([PDF]({{< baseurl >}}/resources/l9_notes))
 {{< tdopen >}}
 Genetic Oscillators ([PDF]({{< baseurl >}}/resources/l10_notes))  
   
-Associated MATLAB® Code File ({{% resource_link "36f8168a-ba57-6275-ca46-25559443409c" "M" %}})
+Associated MATLAB® Code File ([M]({{< baseurl >}}/resources/codei6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +201,7 @@ Global Inhibition Theory (cont.)
 {{< tdopen >}}
 Rapid Pole-to-pole Oscillations in _E. coli_ ([PDF]({{< baseurl >}}/resources/l17_notes))
 
-Associated MATLAB® Code File ({{% resource_link "2010b623-0dff-4044-1f58-11399a01d9db" "M - 1 of 2" %}}) ([M - 2 of 2]({{< baseurl >}}/pages/readings))
+Associated MATLAB® Code File ([M - 1 of 2]({{< baseurl >}}/resources/how_homog)) ([M - 2 of 2]({{< baseurl >}}/pages/readings))
 
 
 {{< tdclose >}}

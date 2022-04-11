@@ -1,10 +1,15 @@
 ---
 content_type: resource
-description: Homework assignment consisting of 4 problems.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-591j-systems-biology-fall-2004/761c71a8f6fff615cc4e862eab7e5997_ps4.pdf
-file_type: application/pdf
+description: MATLAB code file associated with Problem Set 4.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-591j-systems-biology-fall-2004/7c9cbef7933752eec70e6102e105ab1a_ps4.m
+file_type: text/plain
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 91766c16-0667-c25f-07bd-4c4d6ea6d36a
-resourcetype: Document
-title: ps4.pdf
-uid: 761c71a8-f6ff-f615-cc4e-862eab7e5997
+resourcetype: Other
+title: ps4.m
+uid: 7c9cbef7-9337-52ee-c70e-6102e105ab1a
 ---
